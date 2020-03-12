@@ -10,5 +10,5 @@ For help getting started with React Native, view our
 online documentation, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# https://reactnative.dev/docs/getting-started
+https://reactnative.dev/docs/getting-started
 
