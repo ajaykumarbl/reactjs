@@ -2,7 +2,7 @@
 
 ### Place 1
 
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+Hello, this is some text to fill in this, [here](#https://reactnative.dev/docs/getting-started), is a link to the second place.
 
 ### Place 2
 
